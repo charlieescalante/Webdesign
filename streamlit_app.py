@@ -65,7 +65,7 @@ st.markdown("<div class='subtitle'>Your elegant travel companion, powered by AI.
 # Travel-themed Illustration
 st.markdown("""
     <div class='illustration'>
-        <img src='https://via.placeholder.com/800x400.png?text=Travel+Illustration' alt='Travel Illustration'>
+        <img src='https://imgur.com/a/g0EbSr2' alt='Friendly Robot Tour Guide'>
     </div>
 """, unsafe_allow_html=True)
 
